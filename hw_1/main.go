@@ -23,7 +23,6 @@ type OrderGood struct {
 }
 
 func main() {
-
 	Customer1 := OrderCustomer{
 		Name:     "Эдуард",
 		SurName:  "Балаев",
